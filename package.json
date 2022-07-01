@@ -1,0 +1,17 @@
+{
+  "name": "sn-attachment-xml-exporter",
+  "version": "1.0.0",
+  "description": "Extract attachment data XML exported from ServiceNow, converting it into a stand-alone angular app.",
+  "main": "ExtractImageDb.ps1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonard T. Erwine",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "@types/angular": "^1.8.4",
+    "@types/angular-ui-bootstrap": "^1.0.1",
+    "@types/bootstrap": "^5.1.12",
+    "@types/jquery": "^3.5.14"
+  }
+}
